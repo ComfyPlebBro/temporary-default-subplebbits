@@ -4,9 +4,77 @@
   "createdAt": 1697995054,
   "updatedAt": 1697995054,
   "subplebbits": [
+
     {
-      "title": "DIY Economy",
-      "address": "diyeconomy.eth",
+      "title": "Crypto Serious",
+      "address": "cryptoserious.eth",
+      "tags": [
+        "ens"        
+      ]
+    },   
+{
+  "title": "Psychic Garden",
+  "address": "psychicgarden.eth",
+  "tags": [
+    "ens"
+  ],
+  "features": [
+    "sfw"
+  ]
+},
+{
+  "title": "DIY Economy",
+  "address": "diyeconomy.eth",
+  "tags": [
+    "ens"
+  ],
+  "features": [
+    "sfw"
+  ]
+},
+{
+  "title": "Cave to Cave Communications",
+  "address": "cave2cave.eth",
+  "tags": [
+    "ens"
+  ],
+  "features": [
+    "sfw"
+  ]
+},
+{
+  "title": "Chant Down Babylon",
+  "address": "chantdownbabylon.eth",
+  "tags": [
+    "ens"
+  ],
+  "features": [
+    "sfw"
+  ]
+},
+{
+  "title": "We Read Books",
+  "address": "wereadbooks.eth",
+  "tags": [
+    "ens"
+  ],
+  "features": [
+    "sfw"
+  ]
+},
+{
+  "title": "We Bless the News",
+  "address": "weblessthenews.eth",
+  "tags": [
+    "ens"
+  ],
+  "features": [
+    "sfw"
+  ]
+},  
+    {
+      "title": "Great Acceleration",
+      "address": "greatacceleration.eth",
       "tags": [
         "ens",
         "topic"
@@ -14,3 +82,5 @@
     }
   ]
 }
+
+

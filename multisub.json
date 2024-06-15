@@ -4,77 +4,111 @@
   "createdAt": 1697995054,
   "updatedAt": 1697995054,
   "subplebbits": [
-
+    {
+      "title": "Great Acceleration",
+      "address": "greatacceleration.eth",
+      "tags": [
+        "ens",
+        "plebbit",
+        "project",
+        "support",
+        "token"
+      ],
+      "features": [
+        "sfw"
+      ]
+    },
+    {
+      "title": "plebmusic",
+      "address": "plebmusic.eth",
+      "tags": [
+        "ens",
+        "topic"
+      ],
+      "features": [
+        "sfw"
+      ]
+    },
+    {
+      "address": "health-nutrition-science.eth",
+      "tags": [
+        "ens",
+        "topic"
+      ],
+      "features": [
+        "sfw"
+      ]
+    },
+    {
+      "title": "Pleb Council",
+      "address": "plebcouncil.eth",
+      "tags": [
+        "plebbit",
+        "project",
+        "support"
+      ],
+      "features": []
+    },
+    {
+      "title": "Piracy",
+      "address": "plebpiracy.eth",
+      "tags": [
+        "ens",
+        "topic"
+      ]
+    },
+    {
+      "title": "TechnoPleb",
+      "address": "technopleb.eth",
+      "tags": [
+        "ens",
+        "topic"
+      ]
+    },
+    {
+      "title": "Cave to Cave Communications",
+      "address": "cave2cave.eth",
+      "tags": [
+        "ens",
+        "project"
+      ]
+    },
+    {
+      "title": "Psychic Garden",
+      "address": "psychicgarden.eth",
+      "tags": [
+        "ens",
+        "topic"
+      ]
+    },
+    {
+      "title": "The DIY Economy",
+      "address": "diyeconomy.eth",
+      "tags": [
+        "ens",
+        "topic",
+        "support"
+      ]
+    },
     {
       "title": "Crypto Serious",
       "address": "cryptoserious.eth",
       "tags": [
-        "ens"        
+        "ens",
+        "topic"
       ]
-    },   
-{
-  "title": "Psychic Garden",
-  "address": "psychicgarden.eth",
-  "tags": [
-    "ens"
-  ],
-  "features": [
-    "sfw"
-  ]
-},
-{
-  "title": "DIY Economy",
-  "address": "diyeconomy.eth",
-  "tags": [
-    "ens"
-  ],
-  "features": [
-    "sfw"
-  ]
-},
-{
-  "title": "Cave to Cave Communications",
-  "address": "cave2cave.eth",
-  "tags": [
-    "ens"
-  ],
-  "features": [
-    "sfw"
-  ]
-},
-{
-  "title": "Chant Down Babylon",
-  "address": "chantdownbabylon.eth",
-  "tags": [
-    "ens"
-  ],
-  "features": [
-    "sfw"
-  ]
-},
-{
-  "title": "We Read Books",
-  "address": "wereadbooks.eth",
-  "tags": [
-    "ens"
-  ],
-  "features": [
-    "sfw"
-  ]
-},
-{
-  "title": "We Bless the News",
-  "address": "weblessthenews.eth",
-  "tags": [
-    "ens"
-  ],
-  "features": [
-    "sfw"
-  ]
-},  
+    },
     {
-      "title": "Great Acceleration",
-      "address": "greatacceleration.eth",
+      "title": "CHANT DOWN BABYLON",
+      "address": "chantdownbabylon.eth",
+      "tags": [
+        "ens",
+        "random"
+      ]
+    },
+    {
+      "title": "We Read Books",
+      "address": "wereadbooks.eth",
       "tags": [
         "ens",
         "topic"
@@ -82,5 +116,6 @@
     }
   ]
 }
+
 
 

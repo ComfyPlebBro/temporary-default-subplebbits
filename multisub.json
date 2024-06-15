@@ -4,18 +4,9 @@
   "createdAt": 1697995054,
   "updatedAt": 1697995054,
   "subplebbits": [
-
     {
-      "title": "Crypto Serious",
-      "address": "cryptoserious.eth",
-      "tags": [
-        "ens",
-        "topic"
-      ]
-    },
-    {
-      "title": "Great Acceleration",
-      "address": "greatacceleration.eth",
+      "title": "DIY Economy",
+      "address": "diyeconomy.eth",
       "tags": [
         "ens",
         "topic"

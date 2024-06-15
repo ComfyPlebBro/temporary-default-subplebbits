@@ -8,9 +8,7 @@
       "title": "Psychic Garden",
       "address": "psychicgarden.eth",
       "tags": [
-        "ens",
-        "gardening",
-        "medicine"
+        "ens"
       ],
       "features": [
         "sfw"
@@ -20,9 +18,7 @@
       "title": "DIY Economy",
       "address": "diyeconomy.eth",
       "tags": [
-        "ens",
-        "diy",
-        "economics"
+        "ens"
       ],
       "features": [
         "sfw"
@@ -32,9 +28,7 @@
       "title": "Cave to Cave Communications",
       "address": "cave2cave.eth",
       "tags": [
-        "ens",
-        "vibration",
-        "podcast"
+        "ens"
       ],
       "features": [
         "sfw"
@@ -44,8 +38,7 @@
       "title": "Chant Down Babylon",
       "address": "chantdownbabylon.eth",
       "tags": [
-        "ens",
-        "ritual"
+        "ens"
       ],
       "features": [
         "sfw"
@@ -55,8 +48,7 @@
       "title": "We Read Books",
       "address": "wereadbooks.eth",
       "tags": [
-        "ens",
-        "books"
+        "ens"
       ],
       "features": [
         "sfw"
@@ -66,8 +58,7 @@
       "title": "We Bless the News",
       "address": "weblessthenews.eth",
       "tags": [
-        "ens",
-        "news"
+        "ens"
       ],
       "features": [
         "sfw"
@@ -77,9 +68,7 @@
       "title": "Crypto Serious",
       "address": "cryptoserious.eth",
       "tags": [
-        "ens",
-        "crypto",
-        "economics"        
+        "ens"        
       ]
     },
     {
